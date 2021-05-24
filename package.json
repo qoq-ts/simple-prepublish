@@ -1,0 +1,12 @@
+{
+  "name": "ts-prepublish",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:qoq-ts/ts-prepublish.git",
+  "author": "原罪 <531362022@qq.com>",
+  "license": "MIT",
+  "bin": "./prepublish.sh",
+  "dependencies": {
+    "public-refactor": "^0.8.1"
+  }
+}
